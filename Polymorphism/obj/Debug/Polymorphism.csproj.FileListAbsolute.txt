@@ -1,0 +1,6 @@
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Polymorphism\obj\Debug\Polymorphism.pdb

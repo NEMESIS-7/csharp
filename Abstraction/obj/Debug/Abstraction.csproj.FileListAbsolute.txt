@@ -1,0 +1,6 @@
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Abstraction\obj\Debug\Abstraction.pdb

@@ -1,0 +1,6 @@
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\bin\Debug\_201_Assignment.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\bin\Debug\_201_Assignment.pdb
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\obj\Debug\_201_Assignment.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Inheritance\obj\Debug\_201_Assignment.pdb

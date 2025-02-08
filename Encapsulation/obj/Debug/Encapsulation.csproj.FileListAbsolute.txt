@@ -1,0 +1,6 @@
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\OMEN 16\RiderProjects\201_Assignment\Encapsulation\obj\Debug\Encapsulation.pdb
