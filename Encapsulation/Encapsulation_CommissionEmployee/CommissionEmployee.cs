@@ -52,7 +52,7 @@ namespace _201_Assignment
                    "\nLastName: " + LastName +
                    "\nSocial Security Number: " + SocialSecurityNumber +
                    "\nCommission rate: " + CommissionRate +
-                   "\nGross Sales: " + GrossSales;
+                   "\nGross Sales: $" + GrossSales;
 
 
         }
